@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Apolo",
+    "slug": "Apolo",
+    "Scheme": "Apolo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.seuapp.seudominio.apolo"
+    },
+    "android": {
+      "package": "com.seuapp.seudominio.apolo",
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": ""
+    },
+    "extra": {
+      "eas": {
+        "projectId": "afa7d72d-eb8e-402c-8ba3-9c2e2c2fb882"
+      }
+    }
+  }
+}
